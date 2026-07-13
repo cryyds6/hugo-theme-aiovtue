@@ -1,10 +1,15 @@
 ---
 title: 使用AI提示词，让AI快速修改符合规范的文章
-published: 2026-01-05
-description: 介绍如何利用定制的AI提示词，快速将文章草稿处理成符合Mizuki Astro博客规范的Markdown文档。
-tags: ["技术", "效率", "AI", "博客"]
-category: qgxs
-draft: false
+description: "介绍如何利用定制的AI提示词，快速将文章草稿处理成符合Mizuki Astro博客规范的Markdown文档。"
+date: 2026-01-05
+lastmod: 2026-01-05
+categories:
+  - qgxs
+tags:
+  - 技术
+  - 效率
+  - AI
+  - 博客
 ---
 
 使用AI提示词，让AI快速修改符合规范的文章

@@ -1,10 +1,12 @@
 ---
 title: Linux服务器性能网络测试脚本合集转载
-published: 2025-12-23
-description: 来自 tyooe.com 的 Linux 服务器性能/网络测试脚本合集(转载)
-tags: ["分享"]
-category: qgxs
-draft: false
+description: "来自 tyooe.com 的 Linux 服务器性能/网络测试脚本合集(转载)"
+date: 2025-12-23
+lastmod: 2025-12-23
+categories:
+  - qgxs
+tags:
+  - 分享
 ---
 
 # 1. 来自 tyooe.com 的 Linux 服务器性能/网络测试脚本合集(转载)

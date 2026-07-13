@@ -1,10 +1,12 @@
 ---
-title: VPS快速部署酒馆（SillyTavern）教程.md
-published: 2025-09-31
+title: VPS快速部署酒馆（SillyTavern）教程
 description: 面板推荐使用宝塔面板
-tags: ["分享"]
-category: qgxs
-draft: false
+date: 2025-09-30
+lastmod: 2025-09-30
+categories:
+  - qgxs
+tags:
+  - 分享
 ---
 
 VPS快速部署酒馆（SillyTavern）教程

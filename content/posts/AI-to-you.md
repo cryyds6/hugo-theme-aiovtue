@@ -1,6 +1,6 @@
 ---
-title: "AI-雪想说的一些话"
-description: "AI-雪有话想对你说哦，愿意看看吗~"
+title: AI-雪想说的一些话
+description: AI-雪有话想对你说哦，愿意看看吗~
 date: 2026-06-11
 lastmod: 2026-06-11
 cover: "/hero/tt1.png"

@@ -1,10 +1,12 @@
 ---
-title: SillyTaverm酒馆实用插件&资源推荐
-published: 2025-10-20
-description: SillyTaverm酒馆实用插件&资源推荐
-tags: ["分享"]
-category: qgxs
-draft: false
+title: "SillyTaverm酒馆实用插件&资源推荐"
+description: "SillyTaverm酒馆实用插件&资源推荐"
+date: 2025-10-20
+lastmod: 2025-10-20
+categories:
+  - qgxs
+tags:
+  - 分享
 ---
 
 # SillyTaverm实用插件&资源推荐

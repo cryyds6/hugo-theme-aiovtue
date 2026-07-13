@@ -1,10 +1,12 @@
 ---
 title: B站批量取消关注移除粉丝
-published: 2025-01-31
 description: B站批量取消关注移除粉丝
-tags: ["分享"]
-category: qgxs
-draft: false
+date: 2025-01-31
+lastmod: 2025-01-31
+categories:
+  - qgxs
+tags:
+  - 分享
 ---
 
 浏览器打开B站关注页面，打开浏览器（Console）控制台，输入以下脚本即可。如果有报错或繁忙刷新重新开始就行。

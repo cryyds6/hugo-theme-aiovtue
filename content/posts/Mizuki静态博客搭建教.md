@@ -1,11 +1,16 @@
 ---
-title: Mizuki 博客免费搭建指南
-published: 2026-02-06
+title: "Mizuki 博客免费搭建指南"
 description: 一份从零开始，涵盖本地配置到部署上线的完整Mizuki静态博客搭建指南。
-image: https://imgbed.20210701.xyz/file/博客/1770909300944_image.png
-tags: ["教程", "博客", "Mizuki", "技术"]
-category: qgxs
-draft: false
+date: 2026-02-06
+lastmod: 2026-02-06
+cover: "https://imgbed.20210701.xyz/file/博客/1770909300944_image.png"
+categories:
+  - qgxs
+tags:
+  - 教程
+  - 博客
+  - Mizuki
+  - 技术
 ---
 
 # Mizuki 博客免费搭建指南

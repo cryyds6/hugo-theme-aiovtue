@@ -1,11 +1,16 @@
 ---
-title: BinNav-静态导航有后台，免费部署EdgeOne Pages和Cloudflare Pages
-published: 2026-02-19
-description: 一个现代化的网站导航页面，支持可视化管理后台、智能图标获取、拖拽排序和自动部署更新，可部署至EdgeOne Pages无需服务器
-image: https://imgbed.20210701.xyz/file/博客/1771513899287_image.png
-tags: ["导航页", "EdgeOne", "部署", "静态应用"]
-category: qgxs
-draft: false
+title: "BinNav-静态导航有后台，免费部署EdgeOne Pages和Cloudflare Pages"
+description: "一个现代化的网站导航页面，支持可视化管理后台、智能图标获取、拖拽排序和自动部署更新，可部署至EdgeOne Pages无需服务器"
+date: 2026-02-19
+lastmod: 2026-02-19
+cover: "https://imgbed.20210701.xyz/file/博客/1771513899287_image.png"
+categories:
+  - qgxs
+tags:
+  - 导航页
+  - EdgeOne
+  - 部署
+  - 静态应用
 ---
 
 # BinNav-静态导航有后台，免费部署EdgeOne Pages和Cloudflare Pages
