@@ -177,7 +177,7 @@ enableRobotsTXT = true     # 生成 robots.txt（模板在 themes/aiovtue/layout
   [params.home]
     layout = 'cards'
     mobileCardsLayout = 'list'
-    mobileCardsPaging = 'loadMore'
+    mobileCardsPaging = 'cards'
     mobileCardsBatchSize = 10
     timelineBatchSize = 10   # 时间线模式：首屏条数及每次滚动加载条数
 
