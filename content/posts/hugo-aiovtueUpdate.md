@@ -3,14 +3,15 @@ title: hugo主题aiovtue迎来大更新
 description: 对hugo-aiovtue主题进行了多出优化和功能新增
 date: 2026-07-03
 lastmod: 2026-07-03
-cover: /hero/sp1.mp4
-categories: 开源
+cover: "/hero/sp1.mp4"
+categories:
+  - 开源
 tags:
   - 博客
   - 开源
-ai: 介绍了hugo-aiovtue主题首次大版本更新内容，新增 MATH 公式、画板、画廊、视频、音乐播放器、动态页面、时间轴列表、友链优化、留言弹幕等多项功能，并对页面交互和自定义配置进行了全面升级
 math: true
-layout:
+layout: ""
+ai: "介绍了hugo-aiovtue主题首次大版本更新内容，新增 MATH 公式、画板、画廊、视频、音乐播放器、动态页面、时间轴列表、友链优化、留言弹幕等多项功能，并对页面交互和自定义配置进行了全面升级"
 ---
 ### 简介
 经过一段时间的优化和更新，现在*hugo-aiovtue* 主题迎来第一次大更新，涵盖交互优化，功能新增等，改变比较大，不过大部分功能都提供了开关，不喜欢新样式的可以不启用或者不更新，下面对更新内容进行介绍，对了，开源地址

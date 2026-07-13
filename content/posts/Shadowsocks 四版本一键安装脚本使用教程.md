@@ -1,10 +1,15 @@
 ---
-title: Shadowsocks 四版本一键安装脚本使用教程
-published: 2026-02-21
-description: Shadowsocks-Python、R、Go、libev 四版本一键安装、配置、卸载、启动命令及配置文件路径完整说明
-tags: ["Shadowsocks", "Linux", "一键脚本", "代理"]
-category: qgxs
-draft: false
+title: "Shadowsocks 四版本一键安装脚本使用教程"
+description: "Shadowsocks-Python、R、Go、libev 四版本一键安装、配置、卸载、启动命令及配置文件路径完整说明"
+date: 2026-02-21
+lastmod: 2026-02-21
+categories:
+  - qgxs
+tags:
+  - Shadowsocks
+  - Linux
+  - 一键脚本
+  - 代理
 ---
 # Shadowsocks 四版本一键安装脚本使用教程
 
