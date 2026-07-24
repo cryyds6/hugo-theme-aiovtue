@@ -1,16 +1,11 @@
 ---
-title: "WorkBuddy 部署与使用，微信、QQ、飞书直连！腾讯版 OpenClaw"
-description: "详解腾讯 WorkBuddy 桌面智能体工作台的下载安装、登录流程，及微信、QQ、飞书等主流 IM 平台的集成方法。"
-date: 2026-03-18
-lastmod: 2026-03-18
-cover: "https://imgbed.20210701.xyz/file/博客/1773801190918_640_edit_108448131832377.webp"
-categories:
-  - qgxs
-tags:
-  - WorkBuddy
-  - 腾讯智能体
-  - IM集成
-  - 部署教程
+title: WorkBuddy 部署与使用，微信、QQ、飞书直连！腾讯版 OpenClaw
+published: 2026-03-18
+description: 详解腾讯 WorkBuddy 桌面智能体工作台的下载安装、登录流程，及微信、QQ、飞书等主流 IM 平台的集成方法。
+image: https://imgbed.20210701.xyz/file/博客/1773801190918_640_edit_108448131832377.webp
+tags: ["WorkBuddy", "腾讯智能体", "IM集成", "部署教程"]
+category: 部署教程
+draft: false
 ---
 # WorkBuddy 部署与使用，微信、QQ、飞书直连！腾讯版 OpenClaw
 

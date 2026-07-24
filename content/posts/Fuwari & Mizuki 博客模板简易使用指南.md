@@ -1,12 +1,10 @@
 ---
-title: "Fuwari & Mizuki 博客模板简易使用指南"
+title: Fuwari & Mizuki 博客模板简易使用指南
+published: 2025-01-30
 description: 本博客模板的使用方法
-date: 2025-01-30
-lastmod: 2025-01-30
-categories:
-  - qgxs
-tags:
-  - 博客搭建
+tags: ["博客搭建"]
+category: 资源推荐
+draft: false
 ---
 
 > 封面图片来源：[来源](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/208fc754-890d-4adb-9753-2c963332675d/width=2048/01651-1456859105-(colour_1.5),girl,_Blue,yellow,green,cyan,purple,red,pink,_best,8k,UHD,masterpiece,male%20focus,%201boy,gloves,%20ponytail,%20long%20hair,.jpeg)

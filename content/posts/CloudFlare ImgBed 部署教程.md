@@ -1,16 +1,11 @@
 ---
-title: "免费图床 CloudFlare ImgBed 部署教程"
-description: "本文详细介绍基于 Cloudflare Pages 的开源文件托管工具 CloudFlare ImgBed 的部署、数据库配置、存储渠道与完整使用流程。"
-date: 2026-02-12
-lastmod: 2026-02-12
-cover: "https://imgbed.20210701.xyz/file/博客/1770908588826_image.png"
-categories:
-  - qgxs
-tags:
-  - Cloudflare
-  - 图床
-  - 部署教程
-  - 技术
+title: 免费图床 CloudFlare ImgBed 部署教程
+published: 2026-02-12
+description: 本文详细介绍基于 Cloudflare Pages 的开源文件托管工具 CloudFlare ImgBed 的部署、数据库配置、存储渠道与完整使用流程。
+image: https://imgbed.20210701.xyz/file/博客/1770908588826_image.png
+tags: ["Cloudflare", "图床", "部署教程", "技术"]
+category: 部署教程
+draft: false
 ---
 # 免费图床 CloudFlare ImgBed 部署教程
 
